@@ -1,3 +1,5 @@
+# KEY: Well Done! I copied your code into a new project and it worked fine. The rename did u in, but your code was sound.
+
 # Django Project creation and simple templates
 
 ##Complete the following tasks:
